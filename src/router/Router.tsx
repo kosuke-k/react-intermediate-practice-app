@@ -1,6 +1,5 @@
 import { memo, VFC } from 'react';
 import { Route, Switch } from 'react-router-dom';
-
 import { Login } from '../components/pages/Login';
 import { Page404 } from '../components/pages/Page404';
 import { HeaderLayout } from '../components/tempalte/HeaderLayout';
